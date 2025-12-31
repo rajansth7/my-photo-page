@@ -2,7 +2,7 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://rajansth7.github.io"
+url: "https://stharajan.com.np"
 baseurl: "/my-photo-page"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://rajansth7.github.io/my-photo-page/gallery/"  
-  - JOURNAL: "https://rajansth7.github.io/my-photo-page/journal/"
-  - ABOUT: "https://rajansth7.github.io/my-photo-page/about/"
+  - GALLERY: "https://stharajan.com.np/my-photo-page/gallery/"  
+  - JOURNAL: "https://stharajan.com.np/my-photo-page/journal/"
+  - ABOUT: "https://stharajan.com.np/my-photo-page/about/"
 
 # All translation keys
 translations:
